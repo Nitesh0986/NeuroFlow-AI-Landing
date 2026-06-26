@@ -1,6 +1,5 @@
 import HeroContent from "./HeroContent";
-import HeroIllustration from "./HeroIllustration";
-
+import HeroIllustration from "./Heroillustration";
 function Hero() {
   return (
     <section className="bg-[#F1F6F4] py-24">
